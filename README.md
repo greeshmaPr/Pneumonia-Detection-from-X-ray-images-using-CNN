@@ -18,6 +18,7 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
  * Seaborn, matplotlib for data visualization
  * Scikit-learn for performance metrics calculation
  * Project is hosted on Jupyter Notebook
+ * Trained on Google Colab
  
 ## Project Organization
  * Exploratory Data Analysis

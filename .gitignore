@@ -1,0 +1,9 @@
+# Ignore system files
+.DS_store
+
+#Ignore Macsystem files
+__MACOSX
+__pycache__
+
+#ignore kaggle api for data download
+kaggle.json
